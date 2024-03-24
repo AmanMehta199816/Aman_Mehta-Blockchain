@@ -56,6 +56,11 @@ Understand the backbone of blockchain networks with resources on consensus mecha
 
 ## Security Best Practices
 
+
+https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/bb276679-5bb1-499b-8020-b6ac446c0cdb
+
+
+
 Ensure the security of your blockchain applications with these best practices:
 
 - [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/): Guidelines to secure your smart contracts against common vulnerabilities.
