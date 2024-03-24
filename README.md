@@ -73,6 +73,8 @@ Engage with fellow developers and stay updated with the latest trends in blockch
 - [Stack Exchange - Ethereum](https://ethereum.stackexchange.com/): Q&A platform for Ethereum developers.
 - [Reddit - r/blockchain](https://www.reddit.com/r/blockchain/): Join discussions on blockchain technology, development, and news.
 
+![pqOAGtjyqV2JW](https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/7d6bb420-3277-4f42-a842-bf4be32fdd75)
+
 ## Further Learning
 
 Continue your learning journey with these advanced resources:
