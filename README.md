@@ -19,6 +19,7 @@ Welcome to the Blockchain Developer Resources repository! Whether you're a seaso
 ![QnU6mOrBbElaIQz4Fe](https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/b0556c41-8f39-41d9-b3f9-84fe3ddfacb2)
 
 ## Getting Started
+![kenx029abUvDy](https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/08dc43eb-34b7-4b43-b7da-6efe2d8430b0)
 
 If you're new to blockchain development, it's essential to start with the basics. Here are some resources to help you get started:
 
