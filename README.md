@@ -52,6 +52,7 @@ Master smart contract development with these resources:
 - [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/): A library for secure smart contract development on Ethereum and other EVM-based blockchains.
 
 ## Consensus Mechanisms
+![Zvsghbfm12SaY](https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/a745f906-b04c-4329-843c-4ea53a5b1277)
 
 Understand the backbone of blockchain networks with resources on consensus mechanisms:
 
