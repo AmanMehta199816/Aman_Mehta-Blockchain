@@ -34,6 +34,7 @@ Once you have a foundational understanding, delve deeper into blockchain concept
 - [Consensus Algorithms Explained](https://www.binance.vision/pt/blockchain/what-are-consensus-algorithms): Learn about different consensus mechanisms such as Proof of Work (PoW) and Proof of Stake (PoS).
 
 ## Development Platforms
+![VbDm4pTuIEQAviEBQX](https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/e98e29b1-df9d-40ca-beb1-0951b102b2ca)
 
 Explore the various platforms available for blockchain development:
 
