@@ -1,4 +1,5 @@
 # **Ethereum By Aman Mehta**
+![Screenshot_2024-04-02-21-22-11-56_680d03679600f7af0b4c700c6b270fe7](https://github.com/AmanMehta199816/Aman_Mehta-Blockchain/assets/96304523/70f0120a-7d87-4373-b03f-9fcdd23aa47d)
 
 **Introduction:**
 Ethereum is a decentralized, open-source blockchain platform that enables developers to build and deploy smart contracts and decentralized applications (DApps). Launched in 2015 by Vitalik Buterin, Ethereum has become one of the leading platforms for blockchain-based projects and innovations.
